@@ -19,3 +19,15 @@ Responsible for preparing the raw datasets and making sure the data is clean, co
 * Standardized categorical and text fields.
 * Checked identifiers such as Sample_ID and Location_ID for consistency.
 * Prepared the final cleaned datasets for analysis, machine learning, and dashboard integration.
+
+-----------------------------------------------------
+**Data Analysis & Visualization**
+=================================
+Responsible for understanding the cleaned data, finding useful patterns, and presenting the findings through charts and visualizations.
+
+* Performed exploratory data analysis (EDA) on the cleaned datasets.
+* Analyzed water-quality, microplastic, weather, polymer, and location-related data.
+* Compared trends across different locations and time periods.
+* Created charts and visualizations to explain important patterns and relationships.
+* Identified trends, correlations, and unusual observations.
+* Prepared key insights for the final dashboard and project presentation.
