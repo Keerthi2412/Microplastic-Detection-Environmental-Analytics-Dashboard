@@ -57,4 +57,29 @@ Analysis Outcome
 * The model confidence mainly shows how sure the model is about its prediction and does not directly indicate the amount of microplastics.
 * Overall, the results show that the system can predict microplastic counts fairly accurately and can also help identify samples with higher contamination risk.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Analysis Outcome**
+
+* The dataset includes 10 water monitoring locations in different regions.
+
+* Monitoring points cover rivers, lakes, estuaries, canals, coastal waters and wastewater outlets.
+
+* Different nearby industries, such as agriculture, manufacturing, sewage, shipping and urban areas, may contribute to microplastic pollution.
+
+* Agricultural runoff appears at several locations, making it a common possible source of microplastics.
+
+* Urban runoff and municipal sewage are also important pathways through which plastic waste can enter water bodies.
+
+* Industrial and manufacturing areas may need closer monitoring because they can release plastic particles into the environment.
+
+* The monitoring locations are spread across different regions, helping compare pollution risks in different environments.
+
+* Different water bodies are exposed to different nearby pollution sources, showing that microplastic pollution can come from multiple activities.
+
+* This location data helps connect detected microplastics with their sampling location and nearby possible pollution source.
+
+* Overall, the dataset provides useful geographical information for identifying areas that may have a higher risk of microplastic pollution.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
