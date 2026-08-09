@@ -1,0 +1,11 @@
+Location_ID,Location_Name,Water_Body_Type,Latitude,Longitude,City,State,Nearby_Industry_Type
+Loc-101,Hudson River North,River,40.7128,-74.006,New York,Ny,Textile & Apparel
+Loc-102,Lake Michigan Central,Lake,41.8781,-87.6298,Chicago,Il,Manufacturing
+Loc-103,Bay Area Estuary,Estuary,37.7749,-122.4194,San Francisco,Ca,Tech & Commercial
+Loc-104,City Wwtp Outlet,Wwtp Effluent,40.7306,-73.9352,New York,Ny,Municipal Sewage
+Loc-105,Puget Sound Coastal,Coastal,47.6062,-122.3321,Seattle,Wa,Maritime & Shipping
+Loc-106,Mississippi Delta,River,29.9511,-90.0715,New Orleans,La,Agriculture Runoff
+Loc-107,Everglades Canal,Wetland,25.7617,-80.1918,Miami,Fl,Agriculture Runoff
+Loc-108,Delaware River Basin,River,39.9526,-75.1652,Philadelphia,Pa,Chemical Processing
+Loc-109,Lake Erie West,Lake,41.5055,-81.6944,Cleveland,Oh,Heavy Industrial
+Loc-110,Chesapeake Inflow,Estuary,38.9784,-76.4922,Annapolis,Md,Urban Runoff
