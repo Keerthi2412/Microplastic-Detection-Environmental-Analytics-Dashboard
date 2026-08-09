@@ -1,0 +1,7 @@
+Polymer_Code,Polymer_Name,Common_Sources,Toxicity_Score,Degradation_Rate_Years
+PE,Polyethylene,"Plastic bags, bottles, packaging",3,450
+PP,Polypropylene,"Bottle caps, food containers",2,500
+PET,Polyethylene Terephthalate,"Beverage bottles, synthetic clothing",4,450
+PS,Polystyrene,"Foam cups, insulation, packaging",7,500
+PVC,Polyvinyl Chloride,"Pipes, credit cards, medical tubing",9,1000
+PA,Polyamide (Nylon),"Synthetic textiles, fishing nets",5,40
