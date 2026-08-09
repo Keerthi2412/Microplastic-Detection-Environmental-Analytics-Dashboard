@@ -47,3 +47,19 @@ Responsible for developing, training, testing, and evaluating machine learning m
 * Analyzed predictions and model errors.
 * Selected the most suitable model based on performance.
 
+----------------------------
+**Dashboard Developer**
+===============================
+Responsible for turning the cleaned data, analysis results, and machine learning outputs into an interactive and easy-to-understand dashboard.
+
+* Designed the overall dashboard layout and structure.
+* Connected the required datasets and analysis outputs to the dashboard.
+* Created interactive charts, tables, filters, and KPI cards.
+* Displayed water-quality, weather, microplastic, polymer, and location-based information.
+* Integrated relevant machine learning predictions.
+* Added filters for location, date, risk level, and other relevant fields.
+* Focused on making the dashboard clear, interactive, and easy to understand.
+* Ensured that the final dashboard presents key findings and predictions effectively.
+
+---------------------
+
