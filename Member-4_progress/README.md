@@ -42,3 +42,19 @@ Analysis Outcome
 * Overall, identifying the polymer type helps us understand its possible environmental impact and persistence.
 
    -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**Analysis Outcome**
+
+* The predicted microplastic count is very close to the actual count.
+* The model shows a very strong correlation with the actual microplastic count, around 0.995.
+* The average number of microplastic particles in a sample is around 371.
+* The average prediction error is around 5%, which shows that the model gives fairly accurate results.
+* Samples with higher microplastic counts generally have higher contamination risk scores.
+* The contamination risk score has a strong relationship with the actual microplastic count, with a correlation of about 0.994.
+* Most predictions have small errors, while only a few samples have noticeably higher errors.
+* Out of 1000 samples, 896 were considered normal and 104 were detected as anomalies.
+* The model confidence mainly shows how sure the model is about its prediction and does not directly indicate the amount of microplastics.
+* Overall, the results show that the system can predict microplastic counts fairly accurately and can also help identify samples with higher contamination risk.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
