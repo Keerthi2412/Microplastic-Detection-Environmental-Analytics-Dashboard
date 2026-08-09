@@ -26,3 +26,19 @@ Analysis outcome**
 * This suggests that rainfall is the main weather factor affecting runoff in our dataset.
 * More rainfall can lead to more runoff, which may carry microplastics from land into nearby water bodies.
 * Overall, heavy rainfall periods may have a higher potential risk of microplastic transport.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Analysis Outcome
+* PVC has the highest toxicity score in the dataset, making it one of the most concerning polymers.
+* Polystyrene also has a relatively high toxicity score.
+* Polypropylene has the lowest toxicity score among the polymers analyzed.
+* PVC takes around 1000 years to degrade, which is the longest degradation time in the dataset.
+* Polypropylene and Polystyrene take around 500 years to degrade.
+* Polyethylene and PET take around 450 years to degrade.
+* Polyamide (Nylon) has the shortest degradation time, at around 40 years.
+* The scatter plot shows the relationship between toxicity and degradation time for different polymers.
+* The results show that some microplastics can remain in the environment for hundreds of years.
+* PVC is a major concern because it combines high toxicity with a very long degradation time.
+* Overall, identifying the polymer type helps us understand its possible environmental impact and persistence.
+
+   -------------------------------------------------------------------------------------------------------------------------------------------------------
