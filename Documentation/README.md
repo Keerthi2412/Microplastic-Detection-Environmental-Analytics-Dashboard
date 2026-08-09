@@ -31,3 +31,19 @@ Responsible for understanding the cleaned data, finding useful patterns, and pre
 * Created charts and visualizations to explain important patterns and relationships.
 * Identified trends, correlations, and unusual observations.
 * Prepared key insights for the final dashboard and project presentation.
+
+-------------------------------------------
+**Machine Learning**
+============================
+Responsible for developing, training, testing, and evaluating machine learning models using the prepared datasets.
+
+* Prepared the cleaned data for machine learning.
+* Selected relevant features for model development.
+* Performed required feature encoding and preprocessing.
+* Split the data into training and testing datasets.
+* Applied suitable regression and classification techniques.
+* Trained and compared different machine learning models.
+* Tested models using appropriate evaluation metrics.
+* Analyzed predictions and model errors.
+* Selected the most suitable model based on performance.
+
