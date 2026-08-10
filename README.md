@@ -17,15 +17,24 @@ Microplastic pollution in drinking water is becoming a serious environmental pro
 
 
 -----------------------------------------------------------------------------------------
+**Documentation Link**
+
+
+-----------------------------------------------------------------------------------------
 **Live Demonstration Link:**
 
 https://drive.google.com/drive/folders/1UKVU_Ahz0YYQawvfBhaNFD8sSce2iAW7?usp=sharing
 
 -----------------------------------------------------------------------------------------
 **Technology Stack:**
-
-
-
+•	Python – data processing and analysis.
+•	Pandas and NumPy – data preparation and numerical operations.
+•	Jupyter Notebook – analysis and machine-learning workflow.
+•	Matplotlib and Seaborn – visualization.
+•	Scikit-learn – machine-learning implementation.
+•	Power BI – interactive dashboard development.
+•	Excel / CSV – structured project data.
+•	APIs – external data sources where applicable.
 
 -----------------------------------------------------------------------------------------
 **Team Members:**
