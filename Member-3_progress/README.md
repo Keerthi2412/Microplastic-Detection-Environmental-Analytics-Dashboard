@@ -96,3 +96,68 @@ The dashboard development process included:
 The relationships between the tables allow the dashboard to combine
 environmental, water-quality, microplastic, polymer, location, and
 machine-learning information.
+## 7. Dashboard Development
+
+The dashboard was developed progressively to provide both
+dataset-specific analysis and an overall project view.
+
+### 7.1 Individual Dataset Dashboard
+
+Initially, individual dashboards were created for the separate datasets
+to understand their structure, variables, and key information.
+
+### 7.2 Executive Overview
+
+An Executive Overview was developed to provide a consolidated summary of
+the project.
+
+It presents key measures and high-level insights from the integrated
+datasets.
+
+### 7.3 Water Quality Analysis
+
+Line charts and other visualizations were created to analyze
+water-quality trends across the available data.
+
+The analysis helps identify changes and patterns in water-quality
+measurements.
+
+### 7.4 Microplastic Analysis
+
+The dashboard includes analysis of microplastic-related information,
+including:
+
+-   Microplastic concentration
+-   Microplastic counts
+-   Polymer distribution
+-   Particle characteristics
+-   Morphology
+-   Risk levels
+-   Location-wise patterns
+
+### 7.5 Environmental Conditions Analysis
+
+Weather and environmental conditions were analyzed using the available
+weather dataset.
+
+The dashboard includes:
+
+-   Average rainfall
+-   Maximum rainfall
+-   Average wind speed
+-   Rainfall and runoff patterns
+-   Relationships between environmental conditions and water-related
+    measurements
+
+### 7.6 Machine-Learning Performance
+
+Visualizations were created to present machine-learning model
+performance.
+
+The evaluation includes:
+
+-   Accuracy
+-   Precision
+-   Recall
+-   F1 Score
+-   Confusion Matrix
