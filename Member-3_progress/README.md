@@ -161,3 +161,44 @@ The evaluation includes:
 -   Recall
 -   F1 Score
 -   Confusion Matrix
+## 8. Data Analysis and Key Findings
+
+The analysis covers water quality, microplastic concentration, particle
+size, polymer types, morphology, risk levels, locations, and
+weather-related patterns.
+
+Documented findings include:
+
+-   Rainfall and surface runoff show a strong correlation of
+    approximately 0.93.
+-   Average runoff is approximately 1.62 for light rain, 6.87 for
+    moderate rain, and 19.23 for heavy rain.
+-   Wind speed has a very weak relationship with runoff, with a
+    correlation of approximately 0.03.
+-   PVC has the highest toxicity score in the analyzed polymer data and
+    a degradation time of approximately 1000 years.
+-   Predicted microplastic count has a correlation of approximately
+    0.995 with actual count, with an average prediction error of
+    approximately 5%.
+-   The contamination risk score has a correlation of approximately
+    0.994 with actual microplastic count.
+-   The location dataset covers 10 monitoring locations.
+
+## 9. Machine Learning
+
+A location-based classification module was developed using
+`dim_locations_cleaned.csv`.
+
+### Model Details
+
+-   **Target:** `Water_Body_Type`
+-   **Features:** Latitude, Longitude, City, State, Nearby Industry Type
+-   **Algorithm:** Random Forest Classifier
+-   **Preprocessing:** Feature selection, one-hot encoding, and
+    train/test split
+-   **Evaluation Metrics:** Accuracy, Precision, Recall, F1 Score, and
+    Confusion Matrix
+
+The location model is described as a demonstration model because the
+location dataset does not directly contain microplastic contamination
+measurements.
