@@ -21,3 +21,13 @@ difficult.
 InsightX provides a centralized analytical solution that combines data
 cleaning, data modeling, analysis, machine learning, and interactive
 dashboard visualization.
+## 3. Solution Overview
+
+The project follows an end-to-end data analytics workflow:
+
+**Data Collection → Data Cleaning → Data Modeling → Data Analysis →
+Machine Learning → Dashboard Development → Insights**
+
+The dashboard provides an integrated view of water quality, microplastic
+contamination, environmental conditions, locations, polymers, risk
+levels, and machine-learning results.
