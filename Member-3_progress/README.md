@@ -317,3 +317,41 @@ InsightX/
   Dashboard Development               Build the interactive dashboard and
                                       present project insights
   -----------------------------------------------------------------------
+## 15. Future Scope
+
+The project can be extended with:
+
+-   Real-time water-quality monitoring
+-   IoT sensor integration
+-   Real-time weather and API integration
+-   Real-time contamination alerts
+-   Predictive contamination mapping
+-   GIS integration
+-   Mobile application integration
+-   Automated notifications
+-   Automated reporting
+
+## 16. Repository and Links
+
+**GitHub Repository:**\
+https://github.com/Keerthi2412/Microplastic-Detection-Environmental-Analytics-Dashboard
+
+**Live Dashboard:**\
+Add deployment link here.
+
+**Demo Video:**\
+Add demo video link here.
+
+## 17. Conclusion
+
+InsightX provides a centralized approach for analyzing microplastic
+pollution and environmental data. By combining cleaned datasets,
+calculated columns, tables, measures, relationships, a structured data
+model, environmental analysis, machine learning, and interactive Power
+BI visualizations, the project converts complex datasets into meaningful
+insights.
+
+The dashboard supports analysis of water quality, microplastic
+contamination, environmental conditions, locations, polymers, risk
+levels, and machine-learning performance, providing a consolidated
+platform for environmental data analysis and decision support.
