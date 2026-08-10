@@ -11,4 +11,13 @@ The objective is to transform environmental datasets into meaningful
 insights related to water quality, microplastic contamination,
 environmental conditions, pollution patterns, and machine-learning
 performance.
+## 2. Problem Statement
 
+Microplastic pollution in drinking-water sources is a significant
+environmental concern. Water-quality information is often distributed
+across multiple datasets and reports, making analysis and monitoring
+difficult.
+
+InsightX provides a centralized analytical solution that combines data
+cleaning, data modeling, analysis, machine learning, and interactive
+dashboard visualization.
