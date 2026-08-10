@@ -78,3 +78,21 @@ The preparation process included:
     `Location_ID`
 -   Checking unusual values and outliers
 -   Preparing cleaned datasets for analysis and visualization
+## 6. Data Modeling and Power BI Development
+
+After data cleaning, a structured Power BI data model was developed.
+
+The dashboard development process included:
+
+-   Importing cleaned datasets
+-   Creating new calculated columns
+-   Creating calculated tables where required
+-   Creating measures for KPIs and analysis
+-   Establishing relationships between tables
+-   Building a connected data model
+-   Creating visualizations based on the modeled data
+-   Applying consistent dashboard design and formatting
+
+The relationships between the tables allow the dashboard to combine
+environmental, water-quality, microplastic, polymer, location, and
+machine-learning information.
