@@ -14,7 +14,7 @@ Microplastic pollution in drinking water is becoming a serious environmental pro
 -----------------------------------------------------------------------------------------
 **PPT Link:**
 
-
+https://drive.google.com/drive/folders/1Se4hBAYFkmkhs3dotP8GVTs6cZm4kz19?usp=sharing
 
 -----------------------------------------------------------------------------------------
 **Documentation Link**
