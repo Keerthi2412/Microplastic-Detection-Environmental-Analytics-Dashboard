@@ -60,3 +60,21 @@ microplastics, polymers, locations, and machine-learning predictions.
 A structured data model was created in Power BI by establishing
 relationships between the relevant tables. This enables information from
 multiple datasets to be analyzed together.
+## 5. Data Import and Preparation
+
+The datasets were imported into the project and prepared for analysis
+and dashboard development.
+
+The preparation process included:
+
+-   Importing the required datasets
+-   Checking missing values
+-   Checking duplicate records
+-   Correcting data types
+-   Correcting date and time fields
+-   Validating numerical values and ranges
+-   Standardizing text and categorical fields
+-   Checking identifier consistency such as `Sample_ID` and
+    `Location_ID`
+-   Checking unusual values and outliers
+-   Preparing cleaned datasets for analysis and visualization
