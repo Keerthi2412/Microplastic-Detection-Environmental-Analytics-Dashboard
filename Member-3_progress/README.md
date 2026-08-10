@@ -277,3 +277,43 @@ Power BI Dashboard Development
                 v
 Interactive Insights
 ```
+## 13. Repository Structure
+
+A typical project structure can be organized as follows:
+
+``` text
+InsightX/
+|
+├── datasets/
+│   ├── raw/
+│   └── cleaned/
+|
+├── notebooks/
+│   └── analysis_and_ml/
+|
+├── powerbi/
+│   └── InsightX_Dashboard.pbix
+|
+├── reports/
+│   └── project_documentation/
+|
+└── README.md
+```
+
+## 14. Team Roles
+
+  -----------------------------------------------------------------------
+  Role                                Responsibility
+  ----------------------------------- -----------------------------------
+  Data Cleaning and Preprocessing     Clean, validate, and prepare
+                                      project datasets
+
+  Data Analysis and Visualization     Perform analysis, identify trends,
+                                      and create visualizations
+
+  Machine Learning                    Prepare data, train and evaluate
+                                      models, and generate predictions
+
+  Dashboard Development               Build the interactive dashboard and
+                                      present project insights
+  -----------------------------------------------------------------------
