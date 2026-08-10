@@ -202,3 +202,78 @@ A location-based classification module was developed using
 The location model is described as a demonstration model because the
 location dataset does not directly contain microplastic contamination
 measurements.
+## 10. Dashboard Design
+
+The dashboard was designed with a clean and consistent visual structure
+to make complex environmental data easier to interpret.
+
+The design includes:
+
+-   KPI cards
+-   Interactive charts
+-   Line charts
+-   Distribution charts
+-   Risk-level visualizations
+-   Location-wise analysis
+-   Machine-learning performance charts
+-   Interactive filters and slicers
+-   Consistent formatting and styling
+-   Separate dashboard sections for different analytical areas
+
+## 11. Technology Stack
+
+  Technology         Purpose
+  ------------------ -----------------------------------------------------
+  Power BI           Data modeling and interactive dashboard development
+  Python             Data processing and analysis
+  Pandas             Data preparation and manipulation
+  NumPy              Numerical operations
+  Jupyter Notebook   Data analysis and machine-learning workflow
+  Matplotlib         Data visualization
+  Seaborn            Data visualization
+  Scikit-learn       Machine-learning implementation
+  Excel / CSV        Structured project datasets
+  APIs               External data sources where applicable
+
+## 12. Project Workflow
+
+``` text
+Raw Datasets
+     |
+     v
+Data Import
+     |
+     v
+Data Cleaning and Preprocessing
+     |
+     v
+New Columns, Tables and Measures
+     |
+     v
+Data Modeling
+     |
+     v
+Table Relationships
+     |
+     v
+Data Analysis
+     |
+     +--------------------+
+     |                    |
+     v                    v
+Water Quality       Microplastic Analysis
+     |                    |
+     +----------+---------+
+                |
+                v
+Environmental Conditions Analysis
+                |
+                v
+Machine-Learning Performance Analysis
+                |
+                v
+Power BI Dashboard Development
+                |
+                v
+Interactive Insights
+```
