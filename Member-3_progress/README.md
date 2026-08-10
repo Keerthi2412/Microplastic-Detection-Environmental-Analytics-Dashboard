@@ -31,3 +31,32 @@ Machine Learning → Dashboard Development → Insights**
 The dashboard provides an integrated view of water quality, microplastic
 contamination, environmental conditions, locations, polymers, risk
 levels, and machine-learning results.
+## 4. Datasets and Data Model
+
+The project uses cleaned datasets covering weather, water samples,
+microplastics, polymers, locations, and machine-learning predictions.
+
+### Main Tables
+
+  -----------------------------------------------------------------------
+  Table                               Description
+  ----------------------------------- -----------------------------------
+  `dim_weather`                       Weather, rainfall, and runoff
+                                      information
+
+  `fact_water_samples`                Water-quality, microplastic,
+                                      polymer, morphology, and risk
+                                      information
+
+  `ml_predictions`                    Machine-learning prediction outputs
+
+  `dim_polymers`                      Polymer characteristics, toxicity,
+                                      and degradation information
+
+  `dim_locations`                     Geographic and location-related
+                                      information
+  -----------------------------------------------------------------------
+
+A structured data model was created in Power BI by establishing
+relationships between the relevant tables. This enables information from
+multiple datasets to be analyzed together.
